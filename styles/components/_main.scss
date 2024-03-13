@@ -1,0 +1,13 @@
+.main {
+  margin: $spacing-container-medium $dyn-spacing-large;
+
+  .container {
+    background-color: $background-color-secondary;
+    border-radius: $border-radius-container;
+    box-shadow: 0px 2px 8px rgba(0, 0, 0, 0.3);
+
+    h1 {
+      padding: $spacing-container-large;
+    }
+  }
+}
